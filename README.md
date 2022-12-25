@@ -11,6 +11,6 @@ Created a decentralised crypto token ”DCT” from scratch on ICP blockchain ne
 8. User can mint new NFT using experimental cycles and minted NFT's are added to the My-NFT section.
 9. In order to mint NFT's as 3rd party we can use command line function calls using dfx.
 # TECHNOLOGIES USED
-FrontEnd - HTML, CSS, Javascript, ES6, Reactjs, Raect Hooks, React Router.
+FrontEnd - HTML, CSS, Javascript, ES6, Reactjs, React Hooks, React Router.
 <br />
 BackEnd - Motoko smart contracts and Internet Computer
